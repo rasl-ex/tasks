@@ -3,7 +3,7 @@
 ### String
  - [x] 1. 8 kyu https://www.codewars.com/kata/reversed-strings
  - [x] 2. 8 kyu https://www.codewars.com/kata/remove-first-and-last-character
- - [ ] 3. 8 kyu https://www.codewars.com/kata/palindrome-strings
+ - [x] 3. 8 kyu https://www.codewars.com/kata/palindrome-strings
  - [ ] 4. 7 kyu https://www.codewars.com/kata/anagram-detection
  - [ ] 5. 7 kyu https://www.codewars.com/kata/birthday-i-cake
 
