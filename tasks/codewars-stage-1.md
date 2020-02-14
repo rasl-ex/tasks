@@ -1,7 +1,7 @@
 # Codewars Stage 1:
 
 ### String
-  1. [x]8 kyu https://www.codewars.com/kata/reversed-strings
+ - [x] 1. 8 kyu https://www.codewars.com/kata/reversed-strings
   2. [x]8 kyu https://www.codewars.com/kata/remove-first-and-last-character
   3. [ ]8 kyu https://www.codewars.com/kata/palindrome-strings
   4. [ ]7 kyu https://www.codewars.com/kata/anagram-detection
