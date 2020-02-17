@@ -29,8 +29,8 @@
 
 ### Regular expression 
  - [x] 20. 8 kyu https://www.codewars.com/kata/simple-validation-of-a-username-with-regex
- - [ ] 21. 7 kyu https://www.codewars.com/kata/regexp-basics-is-it-a-letter
- - [ ] 22. 7 kyu https://www.codewars.com/kata/regexp-basics-is-it-a-vowel/
+ - [x] 21. 7 kyu https://www.codewars.com/kata/regexp-basics-is-it-a-letter
+ - [x] 22. 7 kyu https://www.codewars.com/kata/regexp-basics-is-it-a-vowel/
 
 ## Scoring criteria
   2 point for 8 kyu tasks (8 tasks at all)  
