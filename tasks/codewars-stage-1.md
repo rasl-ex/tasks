@@ -21,7 +21,7 @@
  - [x] 14. 7 kyu https://www.codewars.com/kata/fizz-buzz
  - [x] 15. 7 kyu https://www.codewars.com/kata/currying-functions-multiply-all-elements-in-an-array
  - [x] 16. 7 kyu https://www.codewars.com/kata/shortest-word
- - [ ] 17. 7 kyu https://www.codewars.com/kata/square-every-digit
+ - [x] 17. 7 kyu https://www.codewars.com/kata/square-every-digit
  - [ ] 18. 7 kyu https://www.codewars.com/kata/easy-mathematical-callback
 
 ### Object
