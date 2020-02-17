@@ -20,7 +20,7 @@
  - [x] 13. 8 kyu https://www.codewars.com/kata/sum-of-positive
  - [x] 14. 7 kyu https://www.codewars.com/kata/fizz-buzz
  - [x] 15. 7 kyu https://www.codewars.com/kata/currying-functions-multiply-all-elements-in-an-array
- - [ ] 16. 7 kyu https://www.codewars.com/kata/shortest-word
+ - [x] 16. 7 kyu https://www.codewars.com/kata/shortest-word
  - [ ] 17. 7 kyu https://www.codewars.com/kata/square-every-digit
  - [ ] 18. 7 kyu https://www.codewars.com/kata/easy-mathematical-callback
 
