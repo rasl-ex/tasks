@@ -16,7 +16,7 @@
  - [x] 11. 6 kyu https://www.codewars.com/kata/is-a-number-prime/
 
 ### Array
- - [ ] 12. 8 kyu https://www.codewars.com/kata/remove-duplicates-from-list
+ - [x] 12. 8 kyu https://www.codewars.com/kata/remove-duplicates-from-list
  - [ ] 13. 8 kyu https://www.codewars.com/kata/sum-of-positive
  - [ ] 14. 7 kyu https://www.codewars.com/kata/fizz-buzz
  - [ ] 15. 7 kyu https://www.codewars.com/kata/currying-functions-multiply-all-elements-in-an-array
