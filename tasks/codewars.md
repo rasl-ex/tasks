@@ -1,6 +1,6 @@
 Codewars:
 
-  -[x] 1. (8 kyu) http://www.codewars.com/kata/opposite-number
+   1. ~~(8 kyu) http://www.codewars.com/kata/opposite-number~~
    2. (8 kyu) http://www.codewars.com/kata/basic-mathematical-operations
    3. (8 kyu) http://www.codewars.com/kata/printing-array-elements-with-comma-delimiters
    4. (8 kyu) http://www.codewars.com/kata/transportation-on-vacation
