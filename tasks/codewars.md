@@ -7,7 +7,7 @@ Codewars:
    5. ~~(7 kyu) http://www.codewars.com/kata/get-the-middle-character~~
    6. ~~(5 kyu) http://www.codewars.com/kata/partition-on~~
    7. ~~(8 kyu) http://www.codewars.com/kata/word-count~~
-   8. (8 kyu) http://www.codewars.com/kata/remove-first-and-last-character-part-two
+   8. ~~(8 kyu) http://www.codewars.com/kata/remove-first-and-last-character-part-two~~
    9. (8 kyu) http://www.codewars.com/kata/implement-a-filter-function
    10. (6 kyu) http://www.codewars.com/kata/prefill-an-array
    11. (7 kyu) http://www.codewars.com/kata/cross-product-of-vectors
